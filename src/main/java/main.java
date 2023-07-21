@@ -6,5 +6,6 @@ public class Main {
              System.out.println((i - 1) + " bottles of beer on the wall!\n");
          }
          System.out.println("If that one bottle should happen to fall, what a waste of alcohol!");
+         System.out.println("We've taken them down and passed them around; now we're drunk and passed out!");
      }
 }
